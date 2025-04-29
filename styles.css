@@ -40,10 +40,10 @@ input:focus, textarea:focus {
 }
 
 /* Estilo para cards de projetos */
-.bg-gray-800 {
+.project-card {
     transition: transform 0.3s ease;
 }
 
-.bg-gray-800:hover {
-    transform: translateY(-5px);
+.project-card:hover {
+    transform: translateY(-8px);
 } 
